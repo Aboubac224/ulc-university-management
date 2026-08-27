@@ -52,7 +52,8 @@ ulc-university-management/
 ├── tests/
 ├── .gitignore
 └── README.md
+```
 
 ## 👤 Author
+
 Aboubacar Bangoura
-```
